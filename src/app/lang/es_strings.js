@@ -8,7 +8,7 @@ i18n.setKeys({
 	"General.CloseGlyph": "X",
 	"General.RefreshResults": "Actualizar",
 	"General.ManualRefresh": "Actualización Manual",
-	"General.RefreshQuickly": "Actualización rápido",
+	"General.RefreshQuickly": "Actualización rápida",
 	"General.Refresh5seconds": "Actualización cada 5 segundos",
 	"General.Refresh1minute": "Actualización cada minuto",
 	"AliasForm.AliasName": "Nombre de Alias",

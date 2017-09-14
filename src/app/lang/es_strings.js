@@ -59,124 +59,125 @@ i18n.setKeys({
 	"FilterBrowser.OutputSize": "Número de Resultados: {0}",
 	"Header.ClusterHealth": "salud del cluster: {0} ({1} of {2})",
 	"Header.ClusterNotConnected": "salud del cluster: no conectado",
-	"Header.Connect": "Connect",
-	"Nav.AnyRequest": "Any Request",
-	"Nav.Browser": "Browser",
-	"Nav.ClusterHealth": "Cluster Health",
-	"Nav.ClusterState": "Cluster State",
-	"Nav.ClusterNodes": "Nodes Info",
-	"Nav.Info": "Info",
-	"Nav.NodeStats": "Nodes Stats",
-	"Nav.Overview": "Overview",
-	"Nav.Indices": "Indices",
+	"Header.Connect": "Conectar",
+	"Nav.AnyRequest": "Cualquier Petición",
+	"Nav.Browser": "Navegador",
+	"Nav.ClusterHealth": "Salud del Cluster",
+	"Nav.ClusterState": "Estado del Cluster",
+	"Nav.ClusterNodes": "Nodos del Cluster",
+	"Nav.Info": "Información",
+	"Nav.NodeStats": "Estadísticas de Nodos",
+	"Nav.Overview": "Vista General",
+	"Nav.Indices": "Índices",
 	"Nav.Plugins": "Plugins",
-	"Nav.Status": "Indices Stats",
-	"Nav.Templates": "Templates",
-	"Nav.StructuredQuery": "Structured Query",
-	"NodeActionsMenu.Title": "Actions",
-	"NodeActionsMenu.Shutdown": "Shutdown...",
-	"NodeInfoMenu.Title": "Info",
-	"NodeInfoMenu.ClusterNodeInfo": "Cluster Node Info",
-	"NodeInfoMenu.NodeStats": "Node Stats",
-	"NodeType.Client": "Client Node",
-	"NodeType.Coord": "Coordinator",
-	"NodeType.Master": "Master Node",
-	"NodeType.Tribe": "Tribe Node",
-	"NodeType.Worker": "Worker Node",
-	"NodeType.Unassigned": "Unassigned",
-	"OptimizeForm.OptimizeIndex": "Optimize {0}",
-	"OptimizeForm.MaxSegments": "Maximum # Of Segments",
-	"OptimizeForm.ExpungeDeletes": "Only Expunge Deletes",
-	"OptimizeForm.FlushAfter": "Flush After Optimize",
-	"OptimizeForm.WaitForMerge": "Wait For Merge",
+	"Nav.Status": "Estadísticas de Índices",
+	"Nav.Templates": "Plantillas",
+	"Nav.StructuredQuery": "Consulta Estructurada",
+	"NodeActionsMenu.Title": "Acciones",
+	"NodeActionsMenu.Shutdown": "Apagar...",
+	"NodeInfoMenu.Title": "Información",
+	"NodeInfoMenu.ClusterNodeInfo": "Información de Nodo de Cluster",
+	"NodeInfoMenu.NodeStats": "Estadísrticas de Nodo",
+	"NodeType.Client": "Nodo Cliente",
+	"NodeType.Coord": "Coordinador",
+	"NodeType.Master": "Nodo Master",
+	"NodeType.Tribe": "Nodo Tribe",
+	"NodeType.Worker": "Nodo Worker",
+	"NodeType.Unassigned": "No Asignado",
+	"OptimizeForm.OptimizeIndex": "Optimizar {0}",
+	"OptimizeForm.MaxSegments": "Máximo # De Segmentos",
+	"OptimizeForm.ExpungeDeletes": "Only Purgar Borrados",
+	"OptimizeForm.FlushAfter": "Flush Después de Optimizar",
+	"OptimizeForm.WaitForMerge": "Esperar Al Merge",
 	"ForceMergeForm.ForceMergeIndex": "ForceMerge {0}",
-	"ForceMergeForm.MaxSegments": "Maximum # Of Segments",
-	"ForceMergeForm.ExpungeDeletes": "Only Expunge Deletes",
-	"ForceMergeForm.FlushAfter": "Flush After ForceMerge",
-	"Overview.PageTitle" : "Cluster Overview",
+	"ForceMergeForm.MaxSegments": "Máximo # De Segmentos",
+	"ForceMergeForm.ExpungeDeletes": "Only Purgar Borrados",
+	"ForceMergeForm.FlushAfter": "Flush Después de ForceMerge",
+	"Overview.PageTitle" : "Vista General De Cluster",
 	"Output.JSON": "JSON",
-	"Output.Table": "Table",
+	"Output.Table": "Tabla",
 	"Output.CSV": "CSV",
-	"Output.ShowSource": "Show query source",
-	"Preference.SortCluster": "Sort Cluster",
-	"Sort.ByName": "By Name",
-	"Sort.ByAddress": "By Address",
-	"Sort.ByType": "By Type",
-	"Preference.SortIndices": "Sort Indices",
-	"SortIndices.Descending": "Descending",
-	"SortIndices.Ascending": "Ascending",
-	"Preference.ViewAliases": "View Aliases",
-	"ViewAliases.Grouped": "Grouped",
-	"ViewAliases.List": "List",
-	"ViewAliases.None": "None",
-	"Overview.IndexFilter": "Index Filter",
-	"TableResults.Summary": "Searched {0} of {1} shards. {2} hits. {3} seconds",
-	"QueryFilter.AllIndices": "All Indices",
-	"QueryFilter.AnyValue": "any",
-	"QueryFilter-Header-Indices": "Indices",
-	"QueryFilter-Header-Types": "Types",
-	"QueryFilter-Header-Fields": "Fields",
-	"QueryFilter.DateRangeHint.from": "From : {0}",
-	"QueryFilter.DateRangeHint.to": "  To : {0}",
-	"Query.FailAndUndo": "Query Failed. Undoing last changes",
-	"StructuredQuery.ShowRawJson": "Show Raw JSON"
+	"Output.ShowSource": "Mostrar petición original",
+	"Preference.SortCluster": "Ordenar Cluster",
+	"Sort.ByName": "Por Nombre",
+	"Sort.ByAddress": "Por Dirección",
+	"Sort.ByType": "Por Tipo",
+	"Preference.SortIndices": "Ordenar Índices",
+	"SortIndices.Descending": "Descendente",
+	"SortIndices.Ascending": "Ascendente",
+	"Preference.ViewAliases": "Ver Alias",
+	"ViewAliases.Grouped": "Agrupado",
+	"ViewAliases.List": "Lista",
+	"ViewAliases.None": "Ninguno",
+	"Overview.IndexFilter": "Filtrar Índice",
+	"TableResults.Summary": "Buscado {0} de {1} shards. {2} resultados. {3} segundos",
+	"QueryFilter.AllIndices": "Todos los Índices",
+	"QueryFilter.AnyValue": "cualquier",
+	"QueryFilter-Header-Indices": "Índices",
+	"QueryFilter-Header-Types": "Tipos",
+	"QueryFilter-Header-Fields": "Campos",
+	"QueryFilter.DateRangeHint.from": "Desde : {0}",
+	"QueryFilter.DateRangeHint.to": "  Hasta : {0}",
+	"Query.FailAndUndo": "Búsqueda Faillida. Deshaciendo últimos cambios",
+	"StructuredQuery.ShowRawJson": "Mostrar JSON bruto"
 });
 
 i18n.setKeys({
 	"AnyRequest.TransformerHelp" : "\
-		<p>The Result Transformer can be used to post process the raw json results from a request into a more useful format.</p>\
-		<p>The transformer should contain the body of a javascript function. The return value from the function becomes the new value passed to the json printer</p>\
-		<p>Example:<br>\
-		  <code>return root.hits.hits[0];</code> would traverse a result set to show just the first match<br>\
-		  <code>return Object.keys(root.nodes).reduce(function(tot, node) { return tot + root.nodes[node].os.mem.used_in_bytes; }, 0);</code> would return the total memory used across an entire cluster<br></p>\
-		<p>The following functions are available and can be useful processing arrays and objects<br>\
+		<p>El Transformador de Resultados puede usarse para postprocesar los resultados de una consulta de json bruto hacia un formato más útil.</p>\
+		<p>El transformador debería contener el cuerpo de una función javascript. El retorno de esta función pasa a ser el nuevo valor a enviar al json printer</p>\
+		<p>Ejemplo:<br>\
+		  <code>return root.hits.hits[0];</code> recorrerá la respuesta para devolver el primer resultado<br>\
+		  <code>return Object.keys(root.nodes).reduce(function(tot, node) { return tot + root.nodes[node].os.mem.used_in_bytes; }, 0);</code> retornará el total de memoria utilizado en todo el cluster<br></p>\
+		<p>Las siguientes funciones están disponibles y pueden ser útiles para procesar matrices y objetos<br>\
 		<ul>\
 			<li><i>Object.keys</i>(object) := array</li>\
 			<li>array.<i>forEach</i>(function(prop, index))</li>\
 			<li>array.<i>map</i>(function(prop, index)) := array</li>\
 			<li>array.<i>reduce</i>(function(accumulator, prop, index), initial_value) := final_value</li>\
 		</ul>\
-		<p>When Repeat Request is running, an extra parameter called prev is passed to the transformation function. This allows comparisons, and cumulative graphing</p>\
-		<p>Example:<br>\
-		<code>var la = [ root.nodes[Object.keys(root.nodes)[0]].os.load_average[0] ]; return prev ? la.concat(prev) : la;</code> would return the load average on the first cluster node over the last minute\
-		This could be fed into the Graph to produce a load graph for the node\
+		<p>Durante la ejecución de la opción Repetir Búsqueda, se pasa un parámetro extra de nombre prev a la funciónd e transformación. Esto permite realizar compraciones y gráficas acumuladas</p>\
+		<p>Ejemplo:<br>\
+		<code>var la = [ root.nodes[Object.keys(root.nodes)[0]].os.load_average[0] ]; return prev ? la.concat(prev) : la;</code> retornará la carga media del primer nodo del cluster durante el último minuto\
+		Esto puede alimentar a una gráfica para producir una gráfica de carga del nodo\
 		"
 });
 
 i18n.setKeys({
 	"AnyRequest.DisplayOptionsHelp" : "\
 		<p>Raw Json: shows complete results of the query and transformation in raw JSON format </p>\
-		<p>Graph Results: To produce a graph of your results, use the result transformer to produce an array of values</p>\
-		<p>Search Results Table: If your query is a search, you can display the results of the search in a table.</p>\
+		<p>Json bruto: muestra los resultados completos de la búsqieda y transformación en formato JSON en bruto</p>\
+		<p>Gráfico de Resultados: Para producir un gráfico de resultados, usar el transformador de resultados para producir una matriz de valores</p>\
+		<p>Tabla de Resultados de Búsqueda: Si la consutla es una búsqueda, puedde mostrar los resultados en forma de tabla.</p>\
 		"
 });
 
 i18n.setKeys({
 	"QueryFilter.DateRangeHelp" : "\
-		<p>Date fields accept a natural language query to produce a From and To date that form a range that the results are queried over.</p>\
-		<p>The following formats are supported:</p>\
+		<p>Los campos fecha aceptan una consulta en lenguaje natural (en inglés) para producir una fecha  <i>Desde</i> y  <i>Hasta</i> para definir un rango sobre el que filtrar los datos.</p>\
+		<p>Se soportan los siguientes formatos:</p>\
 		<ul>\
-			<li><b>Keywords / Key Phrases</b><br>\
+			<li><b>Palabras clave / Frases clave</b><br>\
 				<code>now<br> today<br> tomorrow<br> yesterday<br> last / this / next + week / month / year</code><br>\
-				searches for dates matching the keyword. <code>last year</code> would search all of last year.</li>\
-			<li><b>Ranges</b><br>\
-				<code>1000 secs<br> 5mins<br> 1day<br> 2days<br> 80d<br> 9 months<br> 2yrs</code> (spaces optional, many synonyms for range qualifiers)<br>\
-				Create a search range centered on <code>now</code> extending into the past and future by the amount specified.</li>\
-			<li><b>DateTime and Partial DateTime</b><br>\
+				busca for fechas que coindican con la palabra clave. <code>last year</code> buscaría por el último año.</li>\
+			<li><b>Rangos</b><br>\
+				<code>1000 secs<br> 5mins<br> 1day<br> 2days<br> 80d<br> 9 months<br> 2yrs</code> (espacios opcionales, varios sinónimos para calificadores de rangos)<br>\
+				Crear un rango de búsqueda a partir de ahora (<code>now</code>), extendiendo este intervalo hacia el pasado y futuro por la cantidad especificada.</li>\
+			<li><b>Fecha/Hora(<i>DateTime</i>) y Fecha/Hora Parcial</b><br>\
 				<code>2011<br> 2011-01<br> 2011-01-18<br> 2011-01-18 12<br> 2011-01-18 12:32<br> 2011-01-18 12:32:45</code><br>\
-				these formats specify a specific date range. <code>2011</code> would search the whole of 2011, while <code>2011-01-18 12:32:45</code> would only search for results in that 1 second range</li>\
-			<li><b>Time and Time Partials</b><br>\
+				estos formatos especifican un rangod e fecha específico. <code>2011</code> buscaría en el 2011 entero, mientras que <code>2011-01-18 12:32:45</code> buscaría sólo resultados en ese rango de 1 segundo</li>\
+			<li><b>Tiempo (<i>Time</i>) y Tiempo Parcial</b><br>\
 				<code>12<br> 12:32<br> 12:32:45</code><br>\
-				these formats search for a particular time during the current day. <code>12:32</code> would search that minute during today</li>\
-			<li><b>Date Ranges</b><br>\
+				estos formatos buscan por un tiempo en concreto durante en día actual. <code>12:32</code> buscaría ese minuto del día actual</li>\
+			<li><b>Rangos de Fecha</b><br>\
 				<code>2010 -&gt; 2011<br> last week -&gt; next week<br> 2011-05 -&gt;<br> &lt; now</code><br>\
-				A Date Range is created by specifying two dates in any format (Keyword / DateTime / Time) separated by &lt; or -&gt; (both do the same thing). If either end of the date range is missing, it is the same as having no constraint in that direction.</li>\
-			<li><b>Date Range using Offset</b><br>\
+				Un rango de fecha se crea especificando dos fechas en cualquier formato (Palabra clave , Fecha/Hora , Tiempo) separado por &lt; o -&gt; (ambos hacen lo mismo. Si falta cualquier extremo del rango de fechas, es lo mismo que si no hubiera restricción en la dirección de dicho extremo.</li>\
+			<li><b>Rangos de Fecha usando un desplazamiento</b><br>\
 				<code>2010 -> 1yr<br> 3mins < now</code>\
-				Searches the specified date including the range in the direction specified.</li>\
-			<li><b>Anchored Ranges</b><br>\
+				Busca la fecha especificada incluyendo el rango en la dirección del desplazamiento.</li>\
+			<li><b>Rangos Bidireccionales</b><br>\
 				<code>2010-05-13 05:13 <> 10m<br> now <> 1yr<br> lastweek <> 1month</code><br>\
-				Similar to above except the range is extend in both directions from the anchor date</li>\
+				Parecido al anterior excepto que el rango se extiende en ambas direcciones a partir de la fecha especificada</li>\
 		</ul>\
 	"
 });

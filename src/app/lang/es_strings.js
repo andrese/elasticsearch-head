@@ -77,7 +77,7 @@ i18n.setKeys({
 	"NodeActionsMenu.Shutdown": "Apagar...",
 	"NodeInfoMenu.Title": "Información",
 	"NodeInfoMenu.ClusterNodeInfo": "Información de Nodo de Cluster",
-	"NodeInfoMenu.NodeStats": "Estadísrticas de Nodo",
+	"NodeInfoMenu.NodeStats": "Estadísticas de Nodo",
 	"NodeType.Client": "Nodo Cliente",
 	"NodeType.Coord": "Coordinador",
 	"NodeType.Master": "Nodo Master",
@@ -86,12 +86,12 @@ i18n.setKeys({
 	"NodeType.Unassigned": "No Asignado",
 	"OptimizeForm.OptimizeIndex": "Optimizar {0}",
 	"OptimizeForm.MaxSegments": "Máximo # De Segmentos",
-	"OptimizeForm.ExpungeDeletes": "Only Purgar Borrados",
+	"OptimizeForm.ExpungeDeletes": "Sólo Purgar Borrados",
 	"OptimizeForm.FlushAfter": "Flush Después de Optimizar",
 	"OptimizeForm.WaitForMerge": "Esperar Al Merge",
 	"ForceMergeForm.ForceMergeIndex": "ForceMerge {0}",
 	"ForceMergeForm.MaxSegments": "Máximo # De Segmentos",
-	"ForceMergeForm.ExpungeDeletes": "Only Purgar Borrados",
+	"ForceMergeForm.ExpungeDeletes": "Sólo Purgar Borrados",
 	"ForceMergeForm.FlushAfter": "Flush Después de ForceMerge",
 	"Overview.PageTitle" : "Vista General De Cluster",
 	"Output.JSON": "JSON",
@@ -110,7 +110,7 @@ i18n.setKeys({
 	"ViewAliases.List": "Lista",
 	"ViewAliases.None": "Ninguno",
 	"Overview.IndexFilter": "Filtrar Índice",
-	"TableResults.Summary": "Buscado {0} de {1} shards. {2} resultados. {3} segundos",
+	"TableResults.Summary": "Buscado {0} en {1} shards. {2} resultados. {3} segundos",
 	"QueryFilter.AllIndices": "Todos los Índices",
 	"QueryFilter.AnyValue": "cualquier",
 	"QueryFilter-Header-Indices": "Índices",
@@ -118,7 +118,7 @@ i18n.setKeys({
 	"QueryFilter-Header-Fields": "Campos",
 	"QueryFilter.DateRangeHint.from": "Desde : {0}",
 	"QueryFilter.DateRangeHint.to": "  Hasta : {0}",
-	"Query.FailAndUndo": "Búsqueda Faillida. Deshaciendo últimos cambios",
+	"Query.FailAndUndo": "Búsqueda Fallida. Deshaciendo últimos cambios",
 	"StructuredQuery.ShowRawJson": "Mostrar JSON bruto"
 });
 
@@ -148,7 +148,7 @@ i18n.setKeys({
 		<p>Raw Json: shows complete results of the query and transformation in raw JSON format </p>\
 		<p>Json bruto: muestra los resultados completos de la búsqieda y transformación en formato JSON en bruto</p>\
 		<p>Gráfico de Resultados: Para producir un gráfico de resultados, usar el transformador de resultados para producir una matriz de valores</p>\
-		<p>Tabla de Resultados de Búsqueda: Si la consutla es una búsqueda, puedde mostrar los resultados en forma de tabla.</p>\
+		<p>Tabla de Resultados de Búsqueda: Si la consutla es una búsqueda, puede mostrar los resultados en forma de tabla.</p>\
 		"
 });
 

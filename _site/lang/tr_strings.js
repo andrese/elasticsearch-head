@@ -53,6 +53,8 @@ i18n.setKeys({
 	"IndexCommand.TextToAnalyze": "Analiz edilecek metin",
 	"IndexCommand.ShutdownMessage": "{1} kapatmak için ''{0}'' yazın . Nod bu arayüzden tekrar BAŞLATILAMAZ",
 	"IndexOverview.PageTitle": "Indeksler Genel Bakış",
+//	"IndexOverview.IndexSize": "Size",
+//	"IndexOverview.IndexDocs": "Docs",
 	"IndexSelector.NameWithDocs": "{0} ({1} döküman)",
 	"IndexSelector.SearchIndexForDocs": "{0} indeksinde ara:",
 	"FilterBrowser.OutputType": "Sonuç Formatı: {0}",

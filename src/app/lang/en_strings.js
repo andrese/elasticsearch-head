@@ -53,6 +53,8 @@ i18n.setKeys({
 	"IndexCommand.TextToAnalyze": "Text to Analyse",
 	"IndexCommand.ShutdownMessage": "type ''{0}'' to shutdown {1}. Node can NOT be restarted from this interface",
 	"IndexOverview.PageTitle": "Indices Overview",
+	"IndexOverview.IndexSize": "Size",
+	"IndexOverview.IndexDocs": "Docs",
 	"IndexSelector.NameWithDocs": "{0} ({1} docs)",
 	"IndexSelector.SearchIndexForDocs": "Search {0} for documents where:",
 	"FilterBrowser.OutputType": "Output Results: {0}",

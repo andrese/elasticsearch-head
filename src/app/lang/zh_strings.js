@@ -53,6 +53,8 @@ i18n.setKeys({
 	"IndexCommand.TextToAnalyze": "文本分析",
 	"IndexCommand.ShutdownMessage": "输入 ''{0}'' 以关闭 {1} 节点. 关闭的节点无法从此界面重新启动",
 	"IndexOverview.PageTitle": "索引概览",
+//	"IndexOverview.IndexSize": "Size",
+//	"IndexOverview.IndexDocs": "Docs",
 	"IndexSelector.NameWithDocs": "{0} ({1} 个文档)",
 	"IndexSelector.SearchIndexForDocs": "搜索 {0} 的文档， 查询条件:",
 	"FilterBrowser.OutputType": "返回格式: {0}",

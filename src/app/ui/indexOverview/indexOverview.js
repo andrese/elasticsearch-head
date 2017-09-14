@@ -75,10 +75,10 @@
 					{ tag: "TR", children: [
 						{ tag: "TH" },
 						{ tag: "TH", children: [
-							{ tag: "H3", text: "Size" }
+							{ tag: "H3", text: i18n.text("IndexOverview.IndexSize") }
 						] },
 						{ tag: "TH", children: [
-							{ tag: "H3", text: "Docs" }
+							{ tag: "H3", text: i18n.text("IndexOverview.IndexDocs") }
 						] }
 					] }
 				] },

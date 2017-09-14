@@ -53,6 +53,8 @@ i18n.setKeys({
 	"IndexCommand.TextToAnalyze": "Texto para analizar",
 	"IndexCommand.ShutdownMessage": "digite ''{0}'' para desligar {1}. Nó NÃO PODE ser reiniciado à partir dessa interface",
 	"IndexOverview.PageTitle": "Visão geral dos índices",
+//	"IndexOverview.IndexSize": "Size",
+//	"IndexOverview.IndexDocs": "Docs",
 	"IndexSelector.NameWithDocs": "{0} ({1} documentoss)",
 	"IndexSelector.SearchIndexForDocs": "Busca {0} por documentos onde:",
 	"FilterBrowser.OutputType": "Resultados: {0}",

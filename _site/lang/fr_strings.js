@@ -52,6 +52,8 @@ i18n.setKeys({
 	"IndexInfoMenu.Metadata": "Métadonnées de l'Index",
 	"IndexCommand.TextToAnalyze": "Texte à analyser",
 	"IndexCommand.ShutdownMessage": "Entrez ''{0}'' pour éteindre {1}. Le noeud NE PEUT PAS être redémarré depuis cette interface.",
+//	"IndexOverview.IndexSize": "Size",
+//	"IndexOverview.IndexDocs": "Docs",
 //	"IndexSelector.NameWithDocs": "{0} ({1} docs)",
 	"IndexSelector.SearchIndexForDocs": "Chercher dans {0} les documents correspondant à",
 	"FilterBrowser.OutputType": "Format d'affichage des résultats {0}",

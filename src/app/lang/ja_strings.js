@@ -53,6 +53,8 @@ i18n.setKeys({
 	"IndexCommand.TextToAnalyze": "Analyse するテキストを入力",
 	"IndexCommand.ShutdownMessage": " {1} をシャットダウンするために ''{0}'' と入力して下さい. このインターフェースからはリスタートはできません.",
 	"IndexOverview.PageTitle": "インデックスのOverview",
+//	"IndexOverview.IndexSize": "Size",
+//	"IndexOverview.IndexDocs": "Docs",
 //	"IndexSelector.NameWithDocs": "{0} ({1} docs)",
 	"IndexSelector.SearchIndexForDocs": "Search {0} for documents where:",
 	"FilterBrowser.OutputType": "結果の出力形式: {0} ",
